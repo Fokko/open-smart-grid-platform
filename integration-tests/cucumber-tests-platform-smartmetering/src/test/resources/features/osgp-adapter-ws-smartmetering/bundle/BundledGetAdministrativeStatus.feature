@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - GetAdministrativeStatus
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Get administrative status of a device in a bundle request
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

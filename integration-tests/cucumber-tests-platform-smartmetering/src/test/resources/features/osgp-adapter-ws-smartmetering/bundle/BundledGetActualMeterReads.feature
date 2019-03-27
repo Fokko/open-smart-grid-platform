@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - GetActualMeterReads
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Get actual meter reads of a device in a bundle request
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

@@ -10,6 +10,7 @@ Feature: SmartMetering AdHoc
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Retrieve COSEM Logical Device Name in a bundle
     When the get specific attribute value request is received
       | DeviceIdentification | TEST1024000000001 |
@@ -40,6 +41,7 @@ Feature: SmartMetering AdHoc
       | Result       | OK                                    |
       | ResponsePart | Choice=ENUMERATE, ResultData isNumber |
 
+  @TimedOut
   Scenario: Retrieve Currently Active Tariff
     When the get specific attribute value request is received
       | DeviceIdentification | TEST1024000000001 |

@@ -4,6 +4,7 @@ Feature: SmartMetering AdHoc - Get Association LN Objects
   I want to be able to get the Association LN object list from a device
   So I can see which COSEM objects are supported by the device
 
+  @TimedOut
   Scenario: Retrieve the association LN objectlist from a device
     Given a dlms device
       | DeviceIdentification | TEST1024000000001 |

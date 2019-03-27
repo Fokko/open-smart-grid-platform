@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - SetAlarmNotifications
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Set alarm notifications on a device in a bundle request
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

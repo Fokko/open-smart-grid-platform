@@ -9,12 +9,14 @@ Feature: SmartMetering Configuration - Administrative Status
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Retrieve get administrative status from a device
     When the get administrative status request is received
       | DeviceIdentification | TEST1024000000001 |
     Then the administrative status should be returned
       | DeviceIdentification | TEST1024000000001 |
 
+  @TimedOut
   Scenario: Set administrative status on a device
     When the set administrative status request is received
       | DeviceIdentification     | TEST1024000000001 |

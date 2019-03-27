@@ -4,6 +4,7 @@ Feature: SmartMetering Scan M-Bus Channels
   I want to be able to scan the M-Bus channels 
   So I can use the outcome in my installation flow
 
+  @TimedOut
   Scenario: Scan the four m-bus channels of a dlms gateway device
     Given a dlms device
       | DeviceIdentification | TEST1024000000001 |

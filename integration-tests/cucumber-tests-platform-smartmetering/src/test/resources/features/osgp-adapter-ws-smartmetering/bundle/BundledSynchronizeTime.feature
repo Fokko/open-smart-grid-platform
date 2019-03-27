@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - SynchronizeTime
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Synchronize time
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

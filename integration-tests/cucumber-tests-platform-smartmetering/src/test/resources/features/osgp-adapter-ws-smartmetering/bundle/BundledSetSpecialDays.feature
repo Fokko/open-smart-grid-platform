@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - SetSpecialDays
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Set special days on a device in a bundle request
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

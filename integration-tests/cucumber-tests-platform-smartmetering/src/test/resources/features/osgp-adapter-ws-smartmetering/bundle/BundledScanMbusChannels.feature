@@ -3,6 +3,7 @@ Feature: SmartMetering Bundle - ScanMbusChannels
   As a grid operator 
   I want to be able to scan the M-Bus channels via a bundle request
 
+  @TimedOut
   Scenario: Bundled Scan M-Bus Channels Action
     Given a dlms device
       | DeviceIdentification | TEST1024000000001 |

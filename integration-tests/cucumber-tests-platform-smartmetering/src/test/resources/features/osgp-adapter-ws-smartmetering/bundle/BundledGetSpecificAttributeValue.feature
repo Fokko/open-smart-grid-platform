@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - GetSpecificAttributeValueAction
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Retrieve COSEM Logical Device Name in a a bundle
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |
@@ -44,6 +45,7 @@ Feature: SmartMetering Bundle - GetSpecificAttributeValueAction
       | Result       | OK                                    |
       | ResponsePart | Choice=ENUMERATE, ResultData isNumber |
 
+  @TimedOut
   Scenario: Retrieve Currently Active Tariff
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

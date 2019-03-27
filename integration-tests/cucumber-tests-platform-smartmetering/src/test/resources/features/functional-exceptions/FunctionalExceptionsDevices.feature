@@ -50,6 +50,7 @@ Feature: SmartMetering functional exceptions regarding devices
       | Code    |              401 |
       | Message | VALIDATION_ERROR |
 
+  @TimedOut
   Scenario: Retrieve a non-existing DLMS attribute
     Given a dlms device
       | DeviceIdentification | TEST1024000000001 |

@@ -8,6 +8,7 @@ Feature: SmartMetering Bundle - GetAllAttributeValuesAction
       | DeviceIdentification | TEST1024000000001 |
       | DeviceType           | SMART_METER_E     |
 
+  @TimedOut
   Scenario: Bundled Get All Attribute Values Action
     Given a bundle request
       | DeviceIdentification | TEST1024000000001 |

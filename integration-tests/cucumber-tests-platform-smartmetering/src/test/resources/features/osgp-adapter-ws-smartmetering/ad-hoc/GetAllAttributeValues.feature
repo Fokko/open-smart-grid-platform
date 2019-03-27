@@ -4,6 +4,7 @@ Feature: SmartMetering AdHoc - Get All Attribute Values
   I want to be able to get all attribute values from a device
   So I can examine what is on the device in detail in case of issues
 
+  @TimedOut
   Scenario: Get All Attribute Values Request
     Given a dlms device
       | DeviceIdentification | TEST1024000000001 |

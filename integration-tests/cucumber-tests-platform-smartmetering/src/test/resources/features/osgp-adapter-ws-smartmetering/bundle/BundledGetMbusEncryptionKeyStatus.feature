@@ -3,6 +3,7 @@ Feature: SmartMetering Bundle - GetMbusEncryptionKeyStatus
   As a grid operator 
   I want to retrieve the encryption key status for an M-Bus device from a meter via a bundle request
 
+  @TimedOut
   Scenario: Get encryption key status for an M-Bus device in a bundle request
     Given a dlms device
       | DeviceIdentification | TEST1024000000001 |
