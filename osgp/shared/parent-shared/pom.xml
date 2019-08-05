@@ -82,7 +82,7 @@
     <license.maven.plugin>2.11</license.maven.plugin>
     <quartz.version>2.3.0</quartz.version>
     <hikaricp.version>2.6.0</hikaricp.version>
-    <micrometer.version>1.0.6</micrometer.version>
+    <micrometer.version>1.2.0</micrometer.version>
   </properties>
 
   <repositories>
