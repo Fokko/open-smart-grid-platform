@@ -30,7 +30,7 @@
 
   <properties>
     <display.version>${project.version}-${BUILD_TAG}</display.version>
-    <cucumber.version>4.2.6</cucumber.version>
+    <cucumber.version>4.7.1</cucumber.version>
     <spring.test.version>4.3.23.RELEASE</spring.test.version>
     <skip.integration.tests>false</skip.integration.tests>
     <skip.unit.tests>false</skip.unit.tests>
