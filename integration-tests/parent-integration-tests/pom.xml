@@ -104,7 +104,7 @@
     <maven.javadoc.version>2.10.4</maven.javadoc.version>
     <ant.junit.version>1.10.1</ant.junit.version>
     <args4j.version>2.33</args4j.version>
-    <maven.assembly.plugin.version>3.0.0</maven.assembly.plugin.version>
+    <maven.assembly.plugin.version>3.1.1</maven.assembly.plugin.version>
 
     <!-- Default always skip integration tests, to ensure all developer data 
       is retained -->
