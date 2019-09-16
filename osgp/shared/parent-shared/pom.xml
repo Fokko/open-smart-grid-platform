@@ -57,7 +57,7 @@
     <servlet.jstl.version>1.2</servlet.jstl.version>
     <hibernate.version>4.2.16.Final</hibernate.version>
     <hibernate.validator.version>4.3.1.Final</hibernate.validator.version>
-    <flyway.version>4.1.2</flyway.version>
+    <flyway.version>6.0.3</flyway.version>
     <junit.version>4.11</junit.version>
     <assertj.version>3.11.1</assertj.version>
     <joda.version>2.4</joda.version>
