@@ -59,7 +59,7 @@
     <servlet.jstl.version>1.2</servlet.jstl.version>
     <protobuf.version>2.4.1</protobuf.version>
     <postgresql.version>9.3-1102-jdbc41</postgresql.version>
-    <hibernate.version>4.2.16.Final</hibernate.version>
+    <hibernate.version>5.4.6.Final</hibernate.version>
     <hibernate.validator.version>4.3.1.Final</hibernate.validator.version>
     <hibernate.jpa.version>1.0.1.Final</hibernate.jpa.version>
     <hikari.version>2.6.0</hikari.version>

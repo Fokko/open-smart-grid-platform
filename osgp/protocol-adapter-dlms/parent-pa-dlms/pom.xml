@@ -60,7 +60,7 @@
     <apache.wss4j.version>1.6.19</apache.wss4j.version>
     <servlet.version>3.0.1</servlet.version>
     <servlet.jstl.version>1.2</servlet.jstl.version>
-    <hibernate.version>4.2.16.Final</hibernate.version>
+    <hibernate.version>5.4.6.Final</hibernate.version>
     <junit.version>4.12</junit.version>
     <joda.version>2.4</joda.version>
     <flyway.version>4.1.2</flyway.version>
