@@ -72,7 +72,7 @@
     <logback.ext.version>0.1.2</logback.ext.version>
     <apache.commons.schema>2.0.3</apache.commons.schema>
     <maven.compiler.plugin.version>3.2</maven.compiler.plugin.version>
-    <guava.version>18.0</guava.version>
+    <guava.version>23.0</guava.version>
     <license.maven.plugin>2.11</license.maven.plugin>
     <hikaricp.version>2.4.0</hikaricp.version>
     <openmuc.j60870.version>1.2.1</openmuc.j60870.version>
