@@ -67,7 +67,7 @@
     <jackson.version>2.9.10</jackson.version>
     <jackson-databind.version>2.9.10</jackson-databind.version>
     <commons.codec.version>1.9</commons.codec.version>
-    <orika.version>1.5.1</orika.version>
+    <orika.version>1.5.4</orika.version>
     <jxr.version>2.5</jxr.version>
     <maven.project.info.reports.plugin.version>3.0.0</maven.project.info.reports.plugin.version>
     <maven.site.plugin>3.7.1</maven.site.plugin>
