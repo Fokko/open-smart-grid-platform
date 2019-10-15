@@ -48,7 +48,7 @@
     <osgp.jasper-interface.version>4.38.0-SNAPSHOT</osgp.jasper-interface.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <spring.version>4.3.18.RELEASE</spring.version>
+    <spring.version>5.0.15.RELEASE</spring.version>
     <spring.data.version>1.11.22.RELEASE</spring.data.version>
     <spring.wscore.version>2.4.0.RELEASE</spring.wscore.version>
     <spring.wssecurity.version>2.4.0.RELEASE</spring.wssecurity.version>
