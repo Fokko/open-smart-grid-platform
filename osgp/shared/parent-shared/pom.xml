@@ -81,7 +81,7 @@
     <maven.compiler.plugin.version>3.6.0</maven.compiler.plugin.version>
     <license.maven.plugin>2.11</license.maven.plugin>
     <quartz.version>2.3.0</quartz.version>
-    <hikaricp.version>2.6.0</hikaricp.version>
+    <hikaricp.version>3.4.1</hikaricp.version>
     <micrometer.version>1.0.6</micrometer.version>
   </properties>
 

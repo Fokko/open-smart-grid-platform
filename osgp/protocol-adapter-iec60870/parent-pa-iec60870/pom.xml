@@ -74,7 +74,7 @@
     <maven.compiler.plugin.version>3.2</maven.compiler.plugin.version>
     <guava.version>18.0</guava.version>
     <license.maven.plugin>2.11</license.maven.plugin>
-    <hikaricp.version>2.4.0</hikaricp.version>
+    <hikaricp.version>3.4.1</hikaricp.version>
     <openmuc.j60870.version>1.2.1</openmuc.j60870.version>
   </properties>
 
