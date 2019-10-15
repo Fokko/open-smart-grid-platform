@@ -57,7 +57,7 @@
     <hibernate.validator.version>4.3.1.Final</hibernate.validator.version>
     <junit.version>4.12</junit.version>
     <assertj.version>3.12.2</assertj.version>
-    <mockito.version>1.10.19</mockito.version>
+    <mockito.version>3.1.0</mockito.version>
     <joda.version>2.4</joda.version>
     <flyway.version>4.1.2</flyway.version>
     <slf4j.version>1.7.7</slf4j.version>
