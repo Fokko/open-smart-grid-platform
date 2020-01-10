@@ -77,7 +77,7 @@
     <apache.commons.schema>2.0.3</apache.commons.schema>
     <maven.compiler.plugin.version>3.6.0</maven.compiler.plugin.version>
     <license.maven.plugin>2.11</license.maven.plugin>
-    <hikaricp.version>2.4.0</hikaricp.version>
+    <hikaricp.version>3.4.2</hikaricp.version>
   </properties>
 
   <repositories>
