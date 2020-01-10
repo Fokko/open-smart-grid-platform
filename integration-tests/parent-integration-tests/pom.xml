@@ -62,7 +62,7 @@
     <hibernate.version>4.2.16.Final</hibernate.version>
     <hibernate.validator.version>4.3.1.Final</hibernate.validator.version>
     <hibernate.jpa.version>1.0.1.Final</hibernate.jpa.version>
-    <hikari.version>2.6.0</hikari.version>
+    <hikari.version>3.4.2</hikari.version>
     <junit.version>4.12</junit.version>
     <joda.version>2.4</joda.version>
     <bonecp.version>0.8.0.RELEASE</bonecp.version>
